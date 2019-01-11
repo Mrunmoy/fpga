@@ -1,6 +1,9 @@
 # FPGA Projects
 Parent for all of my fpga projects
 
+![Basys 3](https://reference.digilentinc.com/_media/reference/programmable-logic/basys-3/basys-3-0.png)
+
+
 [Basys 3 Board Link](https://store.digilentinc.com/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/)
 
 [Getting Started Resources](https://reference.digilentinc.com/reference/programmable-logic/basys-3/start?redirect=1)
