@@ -7,6 +7,13 @@ Parent for all of my fpga projects
 
 [Digilent GitHub](https://github.com/Digilent?utf8=%E2%9C%93&q=basys&type=&language=)
 
+[Online Verilog Compiler](https://www.jdoodle.com/execute-verilog-online)
+
+[IDE Resources](https://www.xilinx.com/support/download.html)
+Download and install WebPack Editions (Windows/Linux)
+
+[Vivado Board files](https://github.com/Digilent/vivado-boards)
+Download and install digilent board files [Install Instructions](https://reference.digilentinc.com/reference/software/vivado/board-files?redirect=1)
 
 ## blinky
 Single LED blink. [reference](https://reference.digilentinc.com/vivado/getting_started_tutorial/start)
