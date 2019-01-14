@@ -23,3 +23,6 @@ Single LED blink. [reference](https://reference.digilentinc.com/vivado/getting_s
 
 ## blink2 
 Running LED effect with direction control using BTNR [reference](https://www.youtube.com/watch?v=6lDzz8tzXck)
+
+## PMOD LED
+More LED effects with a 4-LED PMOD module connected to Basys 3. [follow here](https://github.com/Mrunmoy/fpga/tree/master/led_pmod) 
