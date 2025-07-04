@@ -33,6 +33,9 @@ This repo shows my first steps bringing up my [Tul PYNQ-Z2](https://www.tulembed
 
 This is my follow-up project for the PYNQ-Z2: using an AXI Quad SPI IP core in Vivado to control an 8x8 LED matrix (MAX7219) through PMODA with my own custom logic.
 
+![Watch the video](https://youtube.com/shorts/yp55hPmKDmo)
+
+
 ### What I did
 
 1. Built a Vivado block design with PS–PL connection, AXI Quad SPI IP, and PMODA constraints.
